@@ -2,6 +2,4 @@
 
 Construct with GSAP basic free
 
-```html
-<iframe src="https://codepen.io/kenny-caldieraro/full/OJQWmyj"></iframe>
-```
+https://codepen.io/kenny-caldieraro/full/OJQWmyj
